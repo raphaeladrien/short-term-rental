@@ -1,0 +1,8 @@
+title: Meu Site
+description: Site com Jekyll no GitHub Pages
+theme: minima
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
