@@ -116,22 +116,136 @@ O algoritmo mede:
 Objetivo:
 > aparecer na busca.
 
+### O que o algoritmo avalia:
+- Calendário disponível
+- Preço competitivo
+- Qualidade do anúncio
+- Amenidades relevantes
+- Popularidade inicial (cliques e interesse)
+
+#### Dicas práticas para melhorar:
+1. Expanda o calendário
+- Abra pelo menos 6 a 12 meses futuros
+- Evite lacunas grandes sem disponibilidade
+- Atualize o calendário com frequência
+
+2. Reduza restrições
+- Evite estadia mínima muito alta
+- Permita check-in flexível
+- Aceite reservas instantâneas se possível
+
+3. Ajuste o preço com inteligência
+- Compare imóveis similares na região
+- Use descontos semanais e mensais
+- Teste preços em datas diferentes (alta vs baixa temporada)
+
+4. Melhore o “match” do público
+- Defina claramente o tipo de hóspede ideal (família, executivo, turista)
+- Ajuste o anúncio para esse perfil
+
+
 ## ETAPA 2 — CLIQUE
 
 Objetivo:
 > fazer o hóspede entrar no anúncio.
+
+### O que o algoritmo avalia:
+- Taxa de cliques (CTR)
+- Foto de capa
+- Título do anúncio
+- Atratividade visual geral
+
+#### Dicas práticas para melhorar:
+1. Foto de capa forte
+- Use imagem clara, iluminada e ampla
+- Mostre o “diferencial” do espaço
+- Evite fotos escuras ou poluídas
+
+2. Título estratégico
+- Destaque benefício, não só descrição
+Ex: “Loft moderno com vista + Wi-Fi rápido”
+
+3. Destaque o diferencial
+- Vista, localização, design, conforto
+- Algo que gere curiosidade imediata
+
+4. Trabalhe o custo-benefício visual
+- Mostre valor percebido maior que o preço
+- Evite sensação de “genérico”
 
 ## ETAPA 3 — CONVERSÃO
 
 Objetivo:
 > transformar visualização em reserva.
 
+### O que o algoritmo avalia:
+- Taxa de reserva após clique
+- Fotos internas
+- Avaliações
+- Preço final (taxas incluídas)
+- Clareza do anúncio
+
+#### Dicas práticas para melhorar:
+1. Muitas fotos de qualidade
+- Pelo menos 20–40 fotos reais
+- Mostre todos os ambientes
+- Inclua detalhes (cama, cozinha, banheiro)
+
+2. Descrição clara e convincente
+- Estruture por seções (espaço, localização, regras)
+- Evite textos longos sem organização
+
+3. Prova social (reviews)
+- Incentive avaliações positivas
+- Resolva problemas rapidamente
+- Responda todas as avaliações
+
+4. Ofertas e descontos
+- Desconto semanal/mensal
+- Preço riscado mostrando economia
+
+5. Reduza fricção na decisão
+- Check-in simples
+- Regras claras e objetivas
+- Sem surpresas de taxas
+
 ## ETAPA 4 — EXPERIÊNCIA
 
 Objetivo:
 > gerar avaliações positivas.
 
-# 📊 Todos os Impactos Mencionados
+### O que o algoritmo avalia:
+- Nota média
+- Comentários recentes
+- Comunicação do anfitrião
+- Qualidade da estadia
+- Resolução de problemas
+
+#### Dicas práticas para melhorar:
+1. Comunicação rápida
+- Responda mensagens rapidamente
+- Antecipe dúvidas do hóspede
+- Use mensagens automáticas úteis
+
+2. Limpeza impecável
+- Prioridade máxima
+- Padronize checklist de limpeza
+- Revise antes de cada check-in
+
+3. Check-in sem fricção
+- Self check-in sempre que possível
+- Instruções claras e visuais
+- Evite dependência de terceiros
+
+4. Resolução de problemas
+- Resolva rápido qualquer imprevisto
+- Ofereça soluções antes de reclamações
+
+5. Incentivo a boas avaliações
+- Experiência consistente
+- Pequenos detalhes (café, welcome kit, etc.)
+
+# Todos os Impactos Mencionados
 
 | Estratégia | Impacto mencionado |
 |---|---|
