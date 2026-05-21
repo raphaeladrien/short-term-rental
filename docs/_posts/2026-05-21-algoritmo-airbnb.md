@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Resumo — Algoritmo do Airbnb"
+title: "Como Funciona o Algoritmo do Airbnb"
 description: "Resumo completo e mapa mental sobre como funciona o algoritmo do Airbnb."
 ---
 
 # Como Funciona o Algoritmo do Airbnb
 
-> Resumo completo baseado na entrevista com Roberto Rizo Patron, diretor comercial do Airbnb para América do Sul.
+> Resumo completo baseado na [entrevista](https://youtu.be/Sjlt_UDzBcs?si=V6tRCKjOyfAG7LF3) com Roberto Rizo Patron, diretor comercial do Airbnb para América do Sul.
 
 # Visão Geral
 
